@@ -1,0 +1,185 @@
+Package: me.dylicious.mbp
+Version: 12.2
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/MovieBoxPro.deb
+Size: 37263196
+MD5sum: c926f95b17348ec7bdbfaa16a4ef605b
+SHA1: f24f445eea4ab19df2d4df3fdaef4bdcf92ce5d5
+SHA256: 53dc1dd4a4b0046073d3941f7b0939a0360163e5e6a71f3befd7294d97e9c5ca
+SHA512: bcb138048b959fc03c9cf6438b639b1bff97f2ade6547ecd613948c22c998cfeba75d366196e25cb3b601f0fb8260ad91c14b1849812a30bf1e6565b5636eeac
+Description: MovieBoxPro for iOS 12/13/14/15/16
+Name: MovieBoxPro
+Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
+Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
+Author: MovieBoxPro Team
+
+Package: me.dylicious.mbp.rootless
+Version: 12.5-rootless
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/MovieBoxProRootless.deb
+Size: 37532276
+MD5sum: b7096ecaff1730328772b3be6652d0c0
+SHA1: df9ef845178d99bb957051784ee2644d49c9110b
+SHA256: bbc41cfb764aa78e03131bd75fda0e34d26fcddb68e690260f687d47ed858b6e
+SHA512: ff8770bc91390346224caa31109b8aaa90b6ac5e5a373806bcaea8aac178cab143c148d938576eaa7e98ba4bf0a0e1400323ebd39cafc5b241c059c3c661f184
+Description: MovieBoxPro for iOS 15/16/17 rootless jailbreaks.
+Name: MovieBoxPro
+Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
+Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
+Author: MovieBoxPro Team
+
+Package: me.dylicious.junipero
+Version: 1.1
+Section: Themes
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/JuniperoDeluxe.deb
+Size: 7998966
+MD5sum: 56801de761959498670cc1d9bac18f55
+SHA1: e65aa76bc095f8c1c7c2607ce814339d8e377eec
+SHA256: c5b733a600046a4e6a35627b475921893aeefd9e3c0d96b259a0a353e1db1812
+SHA512: c2c8f7c81d2a2439645ef4f5d0d0a448e33f6cb91e893bacedc944880d51b8f51a6865ab4db8a10467374572b07180d163838ae4364b5cbed8813681b83b56c0
+Description: A stunning new look for iOS
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Name: Junipero Deluxe
+Icon: https://dylbin.github.io/icons/me.dylicious.junipero.png
+Author: xerusdesign
+
+Package: me.dylicious.ayeris15
+Version: 1.0.4
+Section: Themes
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/Ayeris15.deb
+Size: 9957152
+MD5sum: 095fcd6cff1c468fb6cefd63d4dd5d68
+SHA1: 763259669ea7b2674f216fe1d4697d33b105180b
+SHA256: 9c43f1e4ac7ab942157df58e9c4afc58335c20dbd0dcf1c85af5711a3c0d07b9
+SHA512: 65dea5c02ec2e9379f05d1321df25a1a1352d2a4e9a09ba5c0da830890bbb957bfe95dd7e3efb1c388700b6e6ab0b27a48a6a3cd1329416743e9133473cbe138
+Description: A legendary theme for iOS
+Name: Ayeris15
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Icon: https://dylbin.github.io/icons/me.dylicious.ayeris15.png
+Author: Surenix <surenix@surenix.me>
+
+Package: me.dylicious.spotilife
+Version: 1.8
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/Spotilife.deb
+Size: 127026
+MD5sum: b07e4b5779d8493e67c2737b5fc0a200
+SHA1: 35c87e28f56ef559bf99bf1500e6910221fb411a
+SHA256: dda8793a490b3d16a10605f0e1504a45ec12c3a9ec71c6e7ad48b2e215230d85
+SHA512: 2a99dd2210911a91ed6036b24df3297eada11ea96a3cc15932bde421b992f7d504a7cec2a1a282a5db37c25bc3542a5fd50266c6a1a94da76de0d5e2172f2ffd
+Description: Enable Spotify Premium Features on iOS 12 - 16
+Name: Spotilife
+Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Author: julioverne & Dylicious
+
+Package: me.dylicious.spotilife.rootless
+Version: 1.8-rootless
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/SpotilifeRootless.deb
+Size: 111048
+MD5sum: a64aec3802969052d27d66ce03002fdc
+SHA1: 5396f4fba8d07816fe6bcfd5a3bba2fc3be1810d
+SHA256: 4623e5774e5d56980bd72496f4b246d876504835e8510a42334b93fd2d7c6fcf
+SHA512: 2b592239badc0abb0d41d8d2cb6576e06a1e5ad7a20287dc6e60c4e37ef761cc7a4d38c75fec72754fb0a71940eb4a2f740e3177a5db0779161d8bca1f36a2bb
+Description: Enable Spotify Premium Features on iOS 12 - 16
+Name: Spotilife
+Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Author: julioverne & Dylicious
+
+Package: com.uckermark.not-a-bypass
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/NotABypass.deb
+Size: 19377680
+MD5sum: c5b2eccc09486ce99dc430d896e8e621
+SHA1: 4d89309b333b74be44e5993cda2d133acade27ab
+SHA256: 2e36dc355f2cff4d61b18478af655ff8f214ec0daa62550662b2e718ad87064e
+SHA512: 23ecb991bbbcdcd4ad23d01c4b112243ec43b9e757ce481bf34ac31da7fb0a8da3801675f798422b4c9c6a7184d097208d863bd24bf56141c1a72b9d8ed62530
+Description: Global jailbreak detection bypass
+Name: Not A Bypass
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
+Icon: https://dylbin.github.io/icons/com.uckermark.not-a-bypass.png
+Author: Uckermark
+
+Package: com.mo.streamer.ios
+Version: 1.2.12
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/Streamer-iOS.deb
+Size: 9039392
+MD5sum: 51e98d922c25aa0fc2511d308da37373
+SHA1: cf7d8e4504c4ba156d80feeff2ffe7d8b0ac42e8
+SHA256: 55819007d099b4fcac8c8fa9a2a1742fbbc3d4854a96ce8ee10dffac07599ae8
+SHA512: 7f3adf5cc27f105ab739258b770c4d9207cbd25d38d797d7433ee9547c0b18bf825044df3a38d43d0d4052c7bb22de7094c09ba192b14d382ceca1497254d553
+Description: App for Streaming Movies and TV shows on iOS and tvOS
+Name: Streamer-iOS
+Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
+Author: mo7amedfouad
+
+Package: com.mo.streamer.ios.rootless
+Version: 1.2.17-rootless
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/Streamer-iOS-Rootless.deb
+Size: 9750812
+MD5sum: ce95a2c8d978354e88a8dd5410ac72f5
+SHA1: cf43e4d6b3acc7d4821a17366db101c0387c2ea8
+SHA256: a8c7072f9367e82e5c5b9391610e77bd06400bca220092663e2909887fc74e6d
+SHA512: 66fdcee099b75e8a46bf0f6e065072a9973d5315af578fda9c3fad32a880a4e4827de54b1812c9c5ab5dab94ba35d9191ab666d63ea9f857ced4be6dc8c64cd8
+Description: App for Streaming Movies and TV shows on iOS and tvOS
+Name: Streamer-iOS
+Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
+Author: mo7amedfouad
+
+Package: com.bandarhl.BHTwitter.rootless
+Version: 3.9.1-rootless
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/BHTwitterRootless.deb
+Size: 769768
+MD5sum: 69f9fdd6e5d38eba4fc29df4c27f025d
+SHA1: 7df4eff6371137b13bc2805ca58a7355ae14d69e
+SHA256: f903ce39a81be3969cbc9cad3b3f6f44bdffa543742cbf182b10d0ca691df6ff
+SHA512: bb0fb3ce897ae90e640b79a348929ce3dbfb7f598aaaf60059d0ed3c1e48f12f99dc205e2bf2bc138f768b70538dde5d3f6ffbc135a5352eb4c588592bc469b3
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Icon: https://dylbin.github.io/icons/com.bandarhl.BHTwitter.rootless.png
+Author: BandarHelal
+
+Package: me.dylicious.saily.rootless
+Version: 2.1-rootless
+Section: Packaging
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/SailyRootless.deb
+Size: 3531504
+MD5sum: e251b2de89ff1101ca11ea1b0963299a
+SHA1: 794e9dae16ebf0271f9b400bbd2d26b537c1d7ce
+SHA256: f9893d966655a2b71e4f9406879053a9c9b69e91f70768e21d3996df24fc4ecd
+SHA512: b2669ea44bc301d290801965dfaa63544f23fe5510c0a0d980621b5910b4c5a969af90175ef82b29f157533df919645d2b7a54b7f0db129ac622c9b00c364aa0
+Description: Modern. Fast. Beautiful. Rootless.
+Name: Saily
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Author: Saily Team
